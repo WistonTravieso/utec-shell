@@ -1,2 +1,2 @@
 #!/bin/bash
-find . -type f ls -t tail -n 10 -printf '%f\n'
+ls -t tail -n 10
